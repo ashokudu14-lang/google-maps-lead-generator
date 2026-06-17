@@ -1,28 +1,13 @@
-# Google Maps Lead Generator
+# 🗺️ Google Maps Lead Generator
 
-A Python + Selenium script that automatically scrapes business listings from 
-Google Maps and exports them to Excel — perfect for lead generation.
+Automatically scrapes business listings from Google Maps and exports 
+them to a clean Excel file — name, address, phone, website, and rating, 
+all in one click.
 
-## Features
-- Search any business category in any city
-- Extracts Business Name, Rating, Address, Phone Number, Website
-- Exports clean results to Excel
-- Configurable result count
-- Auto-dismisses consent popups
+## 💡 Use Cases
+- Generate leads for any business category in any city
+- Build contact lists for outreach campaigns
+- Market research and competitor analysis
 
-## Requirements
-- Python 3.x
-- Google Chrome installed
-- Install dependencies:
-
-## How to Use
-
-- Enter your search (e.g. "dentists in Hyderabad", "restaurants in Chennai")
-- Enter how many results you want
-- Watch Chrome collect leads automatically
-- Open leads_output.xlsx for your results
-
-## Example Output
-| Business Name | Rating | Address | Phone | Website |
-|---------------|--------|---------|-------|---------|
-| Park Dental Care | 4.8 | Kondapur, Hyderabad | +91- XXXXX | parkdental.com |
+## ⚡ Example
+Search: `dentists in Hyderabad` → get 20 leads with full contact details in Excel, in under 2 minutes.
